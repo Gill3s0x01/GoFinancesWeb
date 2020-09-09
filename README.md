@@ -53,7 +53,7 @@ GoFinances uma aplicação financeira consumindo a API do back-end, gerenciando 
 Go to http://localhost:3000/ to see the result.
 
 <div align="center">
-  <sub>The NLW #2 project. Built with ❤︎ by
+  <sub>The GoStack 13 Go Finances Web - Desafio 7 project. Built with ❤︎ by
     <a href="https://github.com/Gilles30">Lorison Gilles</a> and
     <a href="https://github.com/Gilles30/GoFinancesWeb">
       contributors
